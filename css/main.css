@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;  
+}
+
+.btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+    padding: 15px 30px;
+    border: none;
+    border: 1px solid #006A50;
+    color: #006A50;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.btn-2{
+    margin-top: 24px;
+    padding: 17px;
+    background-color:#006A50;
+    border-radius: 8px;
+    color: #FFFFFF;
+    width: 270px;
+    border: none;
+
+}
+/*<==========navber start =========>*/
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.nav-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+/*<========== navber end =========>*/
+/*<========== banner start =========>*/
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    margin-top: 20px;
+    border-radius: 24px;
+    padding: 117px 59px;
+}
+.banner-sub-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #0E0E0E;
+}
+
+.banner-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    line-height: auto;
+    font-size: 56px;
+    color: #0E0E0E;
+}
+/*<========== banner end =========>*/
+/*<==========navber start =========>*/
+/*<==========navber start =========>*/
+/*<==========navber start =========>*/
+/*<==========navber start =========>*/
+/*<==========navber start =========>*/
+/*<==========navber start =========>*/
