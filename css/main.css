@@ -10,7 +10,7 @@
     margin: 0 auto;  
 }
 
-.btn{
+.btn-1{
     
     background-color: aliceblue;
     padding: 15px 30px;
@@ -58,7 +58,7 @@
     font-size: 16px;
     font-weight: 400;
 }
-.btn:hover{
+.btn-1:hover{
     background-color: #5490F5;
 }
 .btn-2:hover{
@@ -349,3 +349,23 @@
 }
 
 /*<==========navber start =========>*/
+.container-finall{
+    margin-top: 80px;
+    text-align: center;
+    border: 1px solid rgb(231, 231, 231);
+}
+.finall-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+    margin-bottom: 50px;
+}
+.nur{
+    width: 1120px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border: 1px solid #f8f5f5;
+}
